@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Solved](https://img.shields.io/badge/Solved-6-blue?style=flat-square)
 
-Competitive Programming Problem Tracker for the International Collegiate Programming Contest (ICPC)
+Competitive Programming Problem Practice for the International Collegiate Programming Contest (ICPC)
 
 ## Structure
 
