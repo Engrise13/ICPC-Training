@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![Solved](https://img.shields.io/badge/Solved-0-blue?style=flat-square)
 
-Minimalist repository tracking ICPC-style competitive programming solutions in Python.
+Competitive Programming Problem Tracker for the International Collegiate Programming Contest (ICPC)
 
 ## Structure
 
