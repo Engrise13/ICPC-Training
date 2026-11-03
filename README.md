@@ -19,7 +19,7 @@ problems/
 
 <!-- Append new entries to the bottom -->
 | # | Problem | Platform | Solution |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | Watermelon | Codeforces | [4a.py](problems/4a.py) |
 | 2 | Way Too Long Words | Codeforces | [71a.py](71a.py) |
 | 3 | Next Round | Codeforces | [158a.py](problems/158a.py) |
