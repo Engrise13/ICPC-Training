@@ -10,8 +10,8 @@ Competitive Programming Problem Tracker for the International Collegiate Program
 
 ```text
 problems/
-  ├── 4a.py
-  ├── 71a.py
+  ├── problem1.py
+  ├── problem2.py
   └── ...
 ```
 
