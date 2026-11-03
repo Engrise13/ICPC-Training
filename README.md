@@ -24,3 +24,5 @@ problems/
 | 2 | Way Too Long Words | Codeforces | [71a.py](71a.py) |
 | 3 | Next Round | Codeforces | [158a.py](problems/158a.py) |
 | 4 | Team | Codeforces | [231a.py](231a.py) |
+| 5 | Marathon | Codeforces | [1692a.py](1692a.py) |
+| 6 | Plus Or Minus | Codeforces | [1807a.py](1807a.py) |
