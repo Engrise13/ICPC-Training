@@ -12,3 +12,5 @@ for case in cases:
         print("+")
     elif int(case_list[0]) - int(case_list[1]) == int(case_list[2]):
         print("-")
+
+# solved
