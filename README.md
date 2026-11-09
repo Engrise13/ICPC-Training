@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Solved](https://img.shields.io/badge/Solved-6-blue?style=flat-square)
+![Solved](https://img.shields.io/badge/Solved-9-blue?style=flat-square)
 
 Competitive Programming Problem Practice for the International Collegiate Programming Contest (ICPC)
 
