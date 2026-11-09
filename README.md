@@ -21,8 +21,11 @@ problems/
 | # | Problem | Platform | Solution |
 |---|---|---|---|
 | 1 | Watermelon | Codeforces | [4a.py](problems/4a.py) |
-| 2 | Way Too Long Words | Codeforces | [71a.py](71a.py) |
+| 2 | Way Too Long Words | Codeforces | [71a.py](problems/71a.py) |
 | 3 | Next Round | Codeforces | [158a.py](problems/158a.py) |
-| 4 | Team | Codeforces | [231a.py](231a.py) |
-| 5 | Marathon | Codeforces | [1692a.py](1692a.py) |
-| 6 | Plus Or Minus | Codeforces | [1807a.py](1807a.py) |
+| 4 | Team | Codeforces | [231a.py](problems/231a.py) |
+| 5 | Marathon | Codeforces | [1692a.py](problems/1692a.py) |
+| 6 | Plus Or Minus | Codeforces | [1807a.py](problems/1807a.py) |
+| 7 | Blank Space | Codeforces | [1829b.py](problems/1829b.py) |
+| 8 | ICPC Balloons | Codeforces | [1703b.py](problems/1703b.py) |
+| 9 | Triple | Codeforces | [1669b.py](problems/1669b.py) |
