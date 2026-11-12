@@ -29,3 +29,7 @@ problems/
 | 7 | Blank Space | Codeforces | [1829b.py](problems/1829b.py) |
 | 8 | ICPC Balloons | Codeforces | [1703b.py](problems/1703b.py) |
 | 9 | Triple | Codeforces | [1669b.py](problems/1669b.py) |
+
+## License
+
+MIT
